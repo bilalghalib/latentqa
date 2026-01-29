@@ -1,0 +1,280 @@
+{
+  "source": {
+    "title": "Systematic Review and Inventory of Theory of Mind Measures for Young Children",
+    "authors": ["Beaudoin", "Leblanc", "Gagner", "Beauchamp"],
+    "year": 2020,
+    "doi": "10.3389/fpsyg.2019.02905",
+    "extraction_notes": "Sub-abilities extracted from Table 2 (pages 8-9 of the PDF in this repo). Descriptions are lightly cleaned for readability."
+  },
+  "categories": [
+    {
+      "name": "Emotions",
+      "sub_abilities": [
+        {
+          "id": "emotions.typical_emotional_reactions",
+          "name": "Typical emotional reactions",
+          "description": "Inferring a person's emotional reactions based on situations that typically elicit certain emotions, or inferring a preceding event based on a person's emotional reaction.",
+          "composite": false
+        },
+        {
+          "id": "emotions.atypical_emotional_reactions",
+          "name": "Atypical emotional reactions",
+          "description": "Inferring or explaining a person's emotional reactions based on situations eliciting emotions that are atypical compared to what is usually expected.",
+          "composite": false
+        },
+        {
+          "id": "emotions.discrepant_emotions",
+          "name": "Discrepant emotions",
+          "description": "Understanding that people may have discrepant feelings about an event.",
+          "composite": false
+        },
+        {
+          "id": "emotions.mixed_emotions",
+          "name": "Mixed emotions",
+          "description": "Understanding that people may feel mixed emotions or different emotions successively.",
+          "composite": false
+        },
+        {
+          "id": "emotions.hidden_emotions",
+          "name": "Hidden emotions",
+          "description": "Understanding that other people may hide their emotions.",
+          "composite": false
+        },
+        {
+          "id": "emotions.moral_emotions",
+          "name": "Moral emotions",
+          "description": "Understanding that negative feelings might arise following a reprehensible action.",
+          "composite": false
+        },
+        {
+          "id": "emotions.emotion_regulation",
+          "name": "Emotion regulation",
+          "description": "Understanding that others might use strategies to regulate their emotions.",
+          "composite": false
+        },
+        {
+          "id": "emotions.comprehensive_emotion_understanding",
+          "name": "Comprehensive emotion understanding",
+          "description": "Comprehensive measure involving emotion understanding based on different factors/ToM categories (e.g., desires, beliefs, hiding emotions).",
+          "composite": true
+        }
+      ]
+    },
+    {
+      "name": "Desires",
+      "sub_abilities": [
+        {
+          "id": "desires.discrepant_desires",
+          "name": "Discrepant desires",
+          "description": "Understanding that different people may have discrepant desires.",
+          "composite": false
+        },
+        {
+          "id": "desires.multiple_desires",
+          "name": "Multiple desires",
+          "description": "Understanding the co-existence of multiple desires simultaneously or successively in one person.",
+          "composite": false
+        },
+        {
+          "id": "desires.desires_influence_emotions_actions",
+          "name": "Desires influence emotions and actions",
+          "description": "Understanding that people's emotions and actions are influenced by their desires/preferences.",
+          "composite": false
+        },
+        {
+          "id": "desires.desire_action_contradiction",
+          "name": "Desire-action contradiction",
+          "description": "Producing plausible explanations when actions contradict stated desires/preferences.",
+          "composite": false
+        }
+      ]
+    },
+    {
+      "name": "Intentions",
+      "sub_abilities": [
+        {
+          "id": "intentions.completion_of_failed_actions",
+          "name": "Completion of failed actions",
+          "description": "Understanding another person's intent, as demonstrated by completing their failed action.",
+          "composite": false
+        },
+        {
+          "id": "intentions.discrepant_intentions",
+          "name": "Discrepant intentions",
+          "description": "Understanding that identical actions/results can be achieved with different intentions.",
+          "composite": false
+        },
+        {
+          "id": "intentions.prediction_of_actions",
+          "name": "Prediction of actions",
+          "description": "Predicting people's actions based on their intentions.",
+          "composite": false
+        },
+        {
+          "id": "intentions.intention_attribution_to_visual_figures",
+          "name": "Intention attribution to visual figures",
+          "description": "Tendency to attribute intentions to ambiguous visual figures.",
+          "composite": false
+        },
+        {
+          "id": "intentions.intention_explanations",
+          "name": "Intentions explanations",
+          "description": "Producing plausible intention explanations for different types of observed social events.",
+          "composite": false
+        }
+      ]
+    },
+    {
+      "name": "Percepts",
+      "sub_abilities": [
+        {
+          "id": "percepts.simple_visual_perspective_taking",
+          "name": "Simple visual perspective taking",
+          "description": "Acknowledging that others have different visual percepts and adopting the visual perspective of another person.",
+          "composite": false
+        },
+        {
+          "id": "percepts.complex_visual_perspective_taking",
+          "name": "Complex visual perspective taking",
+          "description": "Adopting another person's visual perspective in tasks demanding complex mental rotation or visualization.",
+          "composite": false
+        },
+        {
+          "id": "percepts.percept_action_link",
+          "name": "Percept-action link",
+          "description": "Understanding that others' actions are linked to their visual percepts.",
+          "composite": false
+        },
+        {
+          "id": "percepts.auditory_perspective_taking",
+          "name": "Auditory perspective taking",
+          "description": "Considering the auditory percepts of another person.",
+          "composite": false
+        }
+      ]
+    },
+    {
+      "name": "Knowledge",
+      "sub_abilities": [
+        {
+          "id": "knowledge.knowledge_pretend_play_links",
+          "name": "Knowledge-pretend play links",
+          "description": "Understanding that someone who does not know something exists cannot engage in pretend play that incorporates that knowledge.",
+          "composite": false
+        },
+        {
+          "id": "knowledge.percepts_knowledge_links",
+          "name": "Percepts-knowledge links",
+          "description": "Understanding that someone who does not have access to perceptual information (by looking, hearing, etc.) may not have access to knowledge.",
+          "composite": false
+        },
+        {
+          "id": "knowledge.information_knowledge_links",
+          "name": "Information-knowledge links",
+          "description": "Understanding that someone who was not informed or is not familiar with something may not know.",
+          "composite": false
+        },
+        {
+          "id": "knowledge.knowledge_attention_links",
+          "name": "Knowledge-attention links",
+          "description": "Understanding that something new is more interesting to someone than something already known.",
+          "composite": false
+        }
+      ]
+    },
+    {
+      "name": "Beliefs",
+      "sub_abilities": [
+        {
+          "id": "beliefs.content_false_beliefs",
+          "name": "Content false beliefs",
+          "description": "Familiar container with an unexpected content: understanding the false belief held by someone who never opened the container.",
+          "composite": false
+        },
+        {
+          "id": "beliefs.location_false_beliefs",
+          "name": "Location false beliefs",
+          "description": "Unseen change: understanding the false belief held by someone who did not witness or was not informed of a displacement or change of action.",
+          "composite": false
+        },
+        {
+          "id": "beliefs.identity_false_beliefs",
+          "name": "Identity false beliefs",
+          "description": "Understanding that when something looks/sounds/smells like something else, a person may hold a false belief about its identity.",
+          "composite": false
+        },
+        {
+          "id": "beliefs.second_order_belief",
+          "name": "Second-order belief",
+          "description": "Understanding the second-order belief or false belief held by someone who does not know somebody else was informed (e.g., of a misleading identity or location).",
+          "composite": false
+        },
+        {
+          "id": "beliefs.beliefs_based_action_emotions",
+          "name": "Beliefs based action/emotions",
+          "description": "Predicting another's emotions or actions based on their stated beliefs, or inferring another person's belief based on their stated action or emotion.",
+          "composite": false
+        },
+        {
+          "id": "beliefs.sequence_false_beliefs",
+          "name": "Sequence false beliefs",
+          "description": "Understanding the false belief created when a predictable sequence of stimuli is broken with the intrusion of an unexpected stimulus.",
+          "composite": false
+        },
+        {
+          "id": "beliefs.comprehensive_understanding_beliefs",
+          "name": "Comprehensive understanding of beliefs",
+          "description": "Composite measures of understanding beliefs (e.g., batteries of ToM tasks).",
+          "composite": true
+        }
+      ]
+    },
+    {
+      "name": "Mentalistic understanding of non-literal communication",
+      "sub_abilities": [
+        {
+          "id": "nonliteral.irony_sarcasm",
+          "name": "Irony/sarcasm",
+          "description": "Understanding that other people may lie in order to be ironic or sarcastic.",
+          "composite": false
+        },
+        {
+          "id": "nonliteral.egocentric_lies",
+          "name": "Egocentric lies",
+          "description": "Understanding that someone may consciously lie in order to avoid a problem or to get their way.",
+          "composite": false
+        },
+        {
+          "id": "nonliteral.white_lies",
+          "name": "White lies",
+          "description": "Understanding that someone may lie in order to spare another's feelings.",
+          "composite": false
+        },
+        {
+          "id": "nonliteral.involuntary_lies",
+          "name": "Involuntary lies",
+          "description": "Understanding that someone may tell a 'lie' without knowing.",
+          "composite": false
+        },
+        {
+          "id": "nonliteral.humor",
+          "name": "Humor",
+          "description": "Understanding that someone may tell a 'lie' in order to make a joke.",
+          "composite": false
+        },
+        {
+          "id": "nonliteral.faux_pas",
+          "name": "Faux pas",
+          "description": "Ability to recognize faux-pas (social gaffe) situations.",
+          "composite": false
+        },
+        {
+          "id": "nonliteral.composite_nonliteral",
+          "name": "Composite non-literal communication",
+          "description": "Measures tapping multiple aspects of mentalistic understanding of non-literal communication (e.g., Strange Stories).",
+          "composite": true
+        }
+      ]
+    }
+  ]
+}
